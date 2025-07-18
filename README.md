@@ -64,7 +64,6 @@ Power BI Dashboard | Interactive dashboard for conversion funnel & segmentation
 
 \- Power Bi for visualization
 
-Deliverables
 
 	
 
